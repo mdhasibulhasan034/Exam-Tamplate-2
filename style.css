@@ -672,9 +672,7 @@ h1,h2,h3,h5,h4,h6{
 }
 .client{
    width: 1200px;
-   margin: auto;
-  
-    
+   margin: auto;  
 }
 .client-2 {
    color: #fff;
@@ -727,6 +725,25 @@ h1,h2,h3,h5,h4,h6{
 .client-say .space h3{
    align-self: flex-end;
    padding-left: 10px;
+}
+.slider{
+   text-align: center;
+   margin-top: 40px;
+}
+.slider1{
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   background-color: #f03f1b;
+   display: inline-block;
+   margin-right: 5px;
+}
+.slider2{
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   background-color: #ffffff;
+   display: inline-block;
 }
 
 /* Plane Section */
@@ -994,5 +1011,3 @@ h1,h2,h3,h5,h4,h6{
 .comp ul li a:hover{
    color: #ff4c10;
 }
-
-
