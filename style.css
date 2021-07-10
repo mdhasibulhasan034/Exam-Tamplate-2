@@ -27,7 +27,7 @@ h1,h2,h3,h5,h4,h6{
 
  .header-logo img {
    width: 70px;
-   padding-top: 5px;
+   padding-top: 12px;
 }
 
 .div .main-menu ul {
@@ -412,7 +412,7 @@ h1,h2,h3,h5,h4,h6{
    color: #ffff;
    text-decoration: none;
    background:linear-gradient(#db1c03,#f5420e) ;
-   padding: 16px 48px;
+   padding: 11px 48px;
 }
 .btn-3:hover{
    background: linear-gradient(#f5420e,#db1c03);
@@ -722,6 +722,10 @@ h1,h2,h3,h5,h4,h6{
    line-height: 10px;
    padding: 20px;
 }
+.up span i{
+   position: absolute;
+   top: 11px;
+} 
 .client-say .space h3{
    align-self: flex-end;
    padding-left: 10px;
@@ -791,7 +795,7 @@ h1,h2,h3,h5,h4,h6{
    padding: 12px 0;
 }
 .plane-item p {
-   padding: 5px 0;
+   padding: 2px 0;
    color: #8c8f8f;
    font-size: 14px;
 }
